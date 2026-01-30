@@ -30,7 +30,7 @@ NutriAI  uses Artificial Intelligence to:
 - Database: PostgreSQL / Firebase
 
 - ## 👤 Author
-Sebastián
+Sebastián Avila Suarez
 
 
 
